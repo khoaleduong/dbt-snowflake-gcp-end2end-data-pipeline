@@ -12,3 +12,6 @@ wheels/
 logs/
 target/
 dbt_packages/
+
+# data files
+SourceData/*.csv
